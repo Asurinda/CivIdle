@@ -1087,7 +1087,7 @@ export const RU = {
    ScrollWheelAdjustLevelTooltip: "Вы можете использовать колесо прокрутки для изменения уровня, когда ваш курсор находится над этим пунктом.",
    SeaTradeCost: "Стоимость морской торговли",
    SeaTradeUpgrade: "Торговля с игроками через море. Тариф для каждой морской плитки: %{tariff}",
-   SelectCivilization: "Select Civilization",
+   SelectCivilization: "Выбрать цивилизацию",
    SelectedAll: "Выбрать Всё",
    SelectedCount: "%{count} Выбрано",
    Semiconductor: "Полупроводник",
